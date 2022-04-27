@@ -1,0 +1,70 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Exo 2', sans-serif;
+  font-family: 'Monda', sans-serif;
+
+}
+h1{
+  width: 10px;
+  margin : 0 auto 0 auto;
+  color: #66BFBF;
+  font-size: 5.625rem;
+
+}
+h2{
+  color:#66BFBF;
+  font-size: 2.5rem;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.skill-row {
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+.gornji-div {
+  background-color:#eaf6f6;
+  position:relative;
+  padding-top: 100px;
+}
+.srednji-div
+{
+
+}
+.donji-div
+{
+
+}
+.uce {
+  text-decoration: underline;
+}
+.donji-oblak{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.Angel {
+width: 25%;
+float: left;
+margin-right: 30px;
+
+}
+
+.Motor {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.gornji-oblak{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
